@@ -20,6 +20,8 @@ creator:
     gutenberg_agent_id: '25322'
     url: http://www.gutenberg.org/2009/agents/25322
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/22413#Alaeddin-und-die-Wunderlampeaus-Tausend-und-eine-Nacht
 gutenberg_bookshelf:
 - DE Kinderbuch
 - Children's Myths, Fairy Tales, etc.
